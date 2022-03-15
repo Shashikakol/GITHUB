@@ -8,6 +8,9 @@ public class KIchhaTest
 public void kIchhaTest()
 {
 	System.out.println("sudeep");
+	
+	
+	
 }
 @Test
 public void sahasaSihmaTest()
