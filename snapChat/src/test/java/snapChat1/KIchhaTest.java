@@ -19,5 +19,6 @@ public void sahasaSihmaTest()
 public void kIichhaTest()
 {
 	System.out.println("sudeepa");
+	System.out.println("sudeepa");
 }
 }
