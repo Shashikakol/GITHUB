@@ -15,4 +15,9 @@ public void sahasaSihmaTest()
 	System.out.println("vishnu");
 	System.out.println("vishnu dada");
 }
+@Test
+public void kIichhaTest()
+{
+	System.out.println("sudeepa");
+}
 }
